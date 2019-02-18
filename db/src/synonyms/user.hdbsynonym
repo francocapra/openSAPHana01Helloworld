@@ -1,0 +1,12 @@
+{
+  "UserData.User": {
+    "target": {
+      "object": "UserData.User"
+    }
+  },
+  "UserDetails": {
+    "target": {
+      "object": "user.models::USER_DETAILS"
+    }
+  }
+}
