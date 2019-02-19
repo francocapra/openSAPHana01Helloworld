@@ -1,9 +1,9 @@
 {
   "sources": {
-    "/hana/shared/HXE/xs/controller_data/executionagent/executionroot/82d290b4-ac1b-45b0-afa1-3e2ee17e5cb7/app/META-INF/.sap_java_buildpack/tomcat/temp/builder/sap.cds.mta/builds/build-7292857181245292230/openSAPHana7HelloWorld/srv/my-service.cds": "service CatalogService {\n}\n"
+    "/hana/shared/HXE/xs/app_working/hxehost/executionroot/ca7972d2-bb0f-4d5b-a8ee-0483601fa319/app/META-INF/.sap_java_buildpack/tomcat/temp/builder/sap.cds.mta/builds/build-6121280791539502457/openSAPHana01Helloworld/srv/my-service.cds": "service CatalogService {\n}\n"
   },
   "dependencies": {},
   "files": [
-    "/hana/shared/HXE/xs/controller_data/executionagent/executionroot/82d290b4-ac1b-45b0-afa1-3e2ee17e5cb7/app/META-INF/.sap_java_buildpack/tomcat/temp/builder/sap.cds.mta/builds/build-7292857181245292230/openSAPHana7HelloWorld/srv/my-service.cds"
+    "/hana/shared/HXE/xs/app_working/hxehost/executionroot/ca7972d2-bb0f-4d5b-a8ee-0483601fa319/app/META-INF/.sap_java_buildpack/tomcat/temp/builder/sap.cds.mta/builds/build-6121280791539502457/openSAPHana01Helloworld/srv/my-service.cds"
   ]
 }
